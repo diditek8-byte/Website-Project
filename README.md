@@ -12,3 +12,7 @@ Features
 - Navbar with multiple pages
 - CSS Flexbox Layout
 - Semantic HTML Architecure
+
+
+How it works?
+Just copy and paste this link inside your browser: https://diditek8-byte.github.io/Website-Project/ 
