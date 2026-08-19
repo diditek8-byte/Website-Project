@@ -13,6 +13,8 @@ Features
 - CSS Flexbox Layout
 - Semantic HTML Architecure
 
+Motivation 
+The motivation behind this program is formed from a desire to use my passion to create websites for people or business owners that want to grow but struggle because of all the complexity and high prices. So I created this project hoping that one day I'll be able to help them bring their ideas to life.  
 
 How it works?
 Just copy and paste this link inside your browser: https://diditek8-byte.github.io/Website-Project/ 
