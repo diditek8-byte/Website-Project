@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("images/background.jpg");
+    background-size:cover;
+    background-repeat: none;
+    color: white
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 30px;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 43%;
+    font-size: 60px;
+}
+
+img {
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    width: 200px;
+}
