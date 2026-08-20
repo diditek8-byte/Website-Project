@@ -20,3 +20,9 @@ How it works?
 Just copy and paste this link inside your browser: https://diditek8-byte.github.io/Website-Project/ 
 
 <img width="1470" height="956" alt="Screenshot 2026-08-20 at 12 47 35 PM" src="https://github.com/user-attachments/assets/2e6f0a27-b663-4db0-8286-53a3a4c2c749" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 11 28 21 PM" src="https://github.com/user-attachments/assets/4cc0567b-9caa-4402-9ddf-40595481a076" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 11 28 28 PM" src="https://github.com/user-attachments/assets/d84d802f-4c64-4218-b992-d293c9255ade" />
+
+<img width="1470" height="837" alt="Screenshot 2026-08-19 at 11 28 45 PM" src="https://github.com/user-attachments/assets/326492f4-cfc1-4c0e-a177-546248423466" />
